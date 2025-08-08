@@ -3269,7 +3269,7 @@ input, select, textarea {
 		}
 
 		#menu .close {
-			background-image: url("images/closeicon.svg");
+			background-image: url("closeicon.svg");
 			background-position: 75% 25%;
 			background-repeat: no-repeat;
 			background-size: 2em 2em;
